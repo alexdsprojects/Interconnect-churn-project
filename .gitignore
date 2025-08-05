@@ -1,0 +1,14 @@
+# Entornos virtuales
+venv/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de IDE
+.vscode/
+.idea/
+
+# Archivos de datos grandes (si decides no subirlos)
+# data/raw/*.csv 
+# data/processed/*.csv
